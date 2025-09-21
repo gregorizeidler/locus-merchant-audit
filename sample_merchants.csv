@@ -1,0 +1,16 @@
+merchant_name,address,transaction_amount,transaction_type
+McDonald's,Times Square New York NY,25.50,purchase
+Starbucks,Broadway New York,12.75,purchase
+Apple Store,Fifth Avenue New York,999.99,purchase
+Walmart,123 Main Street,156.78,purchase
+Target,456 Oak Avenue,89.45,purchase
+Best Buy,789 Pine Street,234.67,purchase
+Home Depot,321 Elm Road,445.23,purchase
+CVS Pharmacy,654 Maple Drive,23.45,purchase
+Walgreens,987 Cedar Lane,18.90,purchase
+Shell Gas Station,147 Highway 1,65.00,purchase
+Magazine Luiza 05.570.714/0001-59,Rua Voluntários da Pátria São Paulo SP,299.99,purchase
+Banco do Brasil 00.000.000/0001-91,Av Paulista 1000 São Paulo SP,1500.00,transfer
+Petrobras 33.000.167/0001-01,Rio de Janeiro RJ,85.50,purchase
+Vale 33.592.510/0001-54,Belo Horizonte MG,2500.00,purchase
+Itaú Unibanco 60.701.190/0001-04,São Paulo SP,750.00,transfer
