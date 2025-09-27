@@ -8,7 +8,7 @@
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
 ![Google Maps](https://img.shields.io/badge/Google_Maps-4285F4?style=for-the-badge&logo=googlemaps&logoColor=white)
 
-**🚀 A comprehensive merchant validation platform for fraud and AML teams**
+**🚀 A comprehensive merchant validation platform for fraud and AML teams** 
 
 *Leverage Google Maps APIs to verify business existence and assess transaction risk through geospatial intelligence*
 
